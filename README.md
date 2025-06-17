@@ -16,7 +16,7 @@
 
 ## 🚀 Projeto em Destaque
 
-- 📚 **[Projeto Ponte Inclusão Educacional](https://github.com/vloliveira/barbearia-agendamentos](https://github.com/Melobreno/Ponte-InclusaoEdu))**  
+- 📚 **[Projeto Ponte Inclusão Educacional](https://github.com/Melobreno/Ponte-InclusaoEdu)**  
   Nosso papel é fazer com que a conexão entre profissionais, professores e pais de crianças neuroatípicas alcance um novo nível.
 
 ---
