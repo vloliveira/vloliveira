@@ -1,8 +1,8 @@
 # Olá, eu sou o Vitor Oliveira! 👋
 
-🎓 Licenciado em Educação Física | Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Front-end apaixonado por tecnologia, interfaces limpas e boas experiências.  
-🎯 Em transição de carreira e construindo soluções criativas com React, Node.js e MySQL.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Full stack que curte muito tecnologia, interfaces limpas e boas experiências.  
+🎯 Em transição de carreira e construindo soluções criativas com Java, Python, JavaScript, React e MySQL.
 
 ---
 
@@ -13,27 +13,17 @@
 
 ---
 
-## 🔥 Contribuições recentes
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vloliveira&theme=dark)](https://git.io/streak-stats)
+## 🚀 Projeto em Destaque
 
----
-
-## 🚀 Projetos em Destaque
-
-- 📚 **[Projeto de Agendamento para Barbearia](https://github.com/vloliveira/barbearia-agendamentos)**  
-  Sistema completo em Java com MySQL para controle de horários e clientes.
-
-- 🌐 **[Sistema de Mensagens com React e Node](https://github.com/vloliveira/chat-app)**  
-  Comunicação entre usuários com autenticação e backend estruturado em Express.
-
-_(Altere os links e nomes dos projetos conforme seu repositório real)_
+- 📚 **[Projeto Ponte Inclusão Educacional](https://github.com/vloliveira/barbearia-agendamentos](https://github.com/Melobreno/Ponte-InclusaoEdu))**  
+  Nosso papel é fazer com que a conexão entre profissionais, professores e pais de crianças neuroatípicas alcance um novo nível.
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-oliveira-dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitorlopesoliveira)
 
 ---
 
