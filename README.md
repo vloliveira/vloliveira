@@ -1,7 +1,7 @@
 # Olá, eu sou o Vitor Oliveira! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Full stack que curte muito tecnologia, interfaces limpas e boas experiências.  
+💻 Desenvolvedor que curte muito tecnologia, interfaces limpas e boas experiências.  
 🎯 Em transição de carreira e construindo soluções criativas com Java, Python, JavaScript, React e MySQL.
 
 ---
