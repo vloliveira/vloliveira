@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 ![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vloliveira&show_icons=true&hide=stars&hide_rank=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vloliveira&layout=compact&theme=github_dark)
