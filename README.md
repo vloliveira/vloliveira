@@ -28,14 +28,6 @@
 ---
 
 
-
-## 🚀 Projeto em Destaque
-
-- 📚 **[Projeto Ponte Inclusão Educacional](https://github.com/Melobreno/Ponte-InclusaoEdu)**  
-  Nosso papel é fazer com que a conexão entre profissionais, professores e pais de crianças neuroatípicas alcance um novo nível.
-
----
-
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorlopesoliveira/)
